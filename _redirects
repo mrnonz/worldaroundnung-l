@@ -1,7 +1,8 @@
 # Write your redirects here
 
 # Redirect default Netlify subdomain to primary domain
-http://worldaroundnung-l.netlify.com/* http://l.worldaroundnung.com/:splat 301!
+http://worldaroundnung-l.netlify.com/* https://l.worldaroundnung.com/:splat 301!
+https://worldaroundnung-l.netlify.com/* https://l.worldaroundnung.com/:splat 301!
 
 # Patterns: /{shorten url} {full url} 302
 
