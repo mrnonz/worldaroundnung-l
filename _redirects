@@ -2,6 +2,7 @@
 # Patterns: /{shorten url} {full url} 302
 
 /facebook https://www.facebook.com/WorldaroundNung/ 302
+/twitter https://twitter.com/worldaroundnung 302
 
 # Redirect any unmatched URLs to other default site
 /* https://www.worldaroundnung.com 302
